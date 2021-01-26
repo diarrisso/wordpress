@@ -1,0 +1,489 @@
+.header-stoffe {
+
+    height: 10.7vh;
+
+    .first-navbar {
+        -webkit-transform: translate(126px, 12px);
+                transform: translate(126px, 12px);
+    }
+
+    .last-navbar {
+        -webkit-transform: translate(62px, 12px);
+                transform: translate(62px, 12px);
+    }
+
+    .logo {
+        width: 51px;
+        -webkit-transform: translate(72px, 28px);
+                transform: translate(72px, 28px);
+    }
+}
+
+.main-stoffe {
+    top: 10.2rem !important;
+
+    .banner-image-block img {
+
+        height: 431px !important;
+
+    }
+
+    .glide__bullets {
+        -webkit-transform: translateY(-38px) !important;
+                transform: translateY(-38px) !important;
+        left: 47% !important;
+    }
+}
+
+.stoffe-textile-block {
+    -webkit-transform: translateY(250px);
+            transform: translateY(250px);
+    padding-bottom: 7.5rem;
+
+    .stoffe-textile-heading {
+        margin-left: 6rem;
+        font-family: $Merriweather;
+    }
+
+    .stoffe-textile-heading h3 {
+        font-weight: bold;
+        font-size: 1.645em;
+        letter-spacing: 2.4px;
+        line-height: 1.4;
+        padding-bottom: 0.2rem;
+    }
+
+    .stoffe-textile-heading p {
+        max-width: 513px;
+        font-size: 1.189em;
+        line-height: 1.6;
+    }
+
+}
+
+.textile-img img {
+    height: 470px;
+    width: 320px;
+    margin-left: 4rem;
+}
+
+.stoffe-img img {
+    width: 600px;
+    height: auto;
+    -webkit-transform: translateY(-242px);
+            transform: translateY(-242px);
+    margin-left: 5.5rem;
+}
+
+.stoffe-block {
+
+    background-color: #eae5df;
+    margin: 0 auto;
+    max-width: 1400px;
+    width: 100%;
+    margin-bottom: 5rem;
+    // opacity: 0.4;
+
+    .stoffe-block-flex {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+        -ms-flex-line-pack: center;
+            align-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        padding-bottom: 4.38rem;
+
+        .stoffe-block-flex-text {
+            font-family: $Merriweather;
+            text-align: center;
+            -webkit-transform: translateX(78px);
+                    transform: translateX(78px);
+
+            .stoffe-title {
+                max-width: 375px;
+                font-size: 1.46em;
+                font-weight: bold;
+                letter-spacing: 4.18px;
+                padding-top: 6.9rem;
+                -webkit-transform: translate(47px, -36px);
+                        transform: translate(47px, -36px);
+                line-height: 1.4;
+
+
+            }
+
+            .stoffe-text {
+                width: 100%;
+                max-width: 437px;
+                font-size: 1.14em;
+                padding-bottom: 0.18rem;
+                line-height: 1.7;
+                text-indent: -36px;
+                -webkit-transform: translate(19px, -18px);
+                        transform: translate(19px, -18px);
+            }
+
+            .btn-style {
+                width: 276px;
+                margin: 0 auto;
+                -webkit-transform: translateX(0.9rem);
+                        transform: translateX(0.9rem);
+                padding: 14px 13px 12px 13px;
+                height: 49px;
+                letter-spacing: 1.1px;
+            }
+
+        }
+
+        .stoffe-block-flex-img img {
+            width: 375px;
+            height: 415px;
+            margin-top: 5rem;
+
+        }
+    }
+
+
+}
+
+.section-galerie-heading {
+    text-transform: uppercase;
+    font-size: 1.8em;
+    -webkit-transform: translate(-13px, 14px);
+            transform: translate(-13px, 14px);
+    line-height: 1.4;
+    font-family: "Merriweather";
+    font-weight: bold;
+    letter-spacing: 0.4px;
+    margin-bottom: 3rem;
+}
+
+.galerie-container {
+    width: 100%;
+
+    & img {
+        height: auto;
+        -o-object-fit: cover;
+        object-fit: cover;
+        display: block;
+        width: 256px;
+        -webkit-transform: translate(-13px, -1px);
+                transform: translate(-13px, -1px);
+    }
+}
+.stoffe-footer {
+    margin-top: 4rem !important;
+}
+@media screen and (max-width:576px) {
+    .header-stoffe {
+        height: 13.7vh!important;
+    }
+    .main-stoffe {
+        top:6.9rem !important;
+    }
+    .main-stoffe .banner-image-block img {
+        height: 300px !important;
+    }
+
+    .stoffe-textile-block .stoffe-textile-heading {
+        margin-left: 0;
+    }
+
+    .stoffe-textile-block .stoffe-textile-heading p {
+        font-size: 0.8em;
+        line-height: 1.7;
+    }
+
+    .stoffe-img img {
+        width: 200px;
+        margin-left: 0;
+        height: 189px;
+        transform: translateY(-188px);
+        -webkit-transform: translateY(-188px);
+        -moz-transform: translateY(-188px);
+        -ms-transform: translateY(-188px);
+        -o-transform: translateY(-188px);
+    }
+
+    .stoffe-textile-block {
+        margin-top: 1rem;
+        transform: translateY(106px);
+        padding-bottom: 0;
+        -webkit-transform: translateY(106px);
+        -moz-transform: translateY(106px);
+        -ms-transform: translateY(106px);
+        -o-transform: translateY(106px);
+}
+
+    .textile-img img {
+        width: 125px;
+        height: auto;
+        padding-top: 2rem;
+    }
+
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-img img {
+        display: none;
+    }
+
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text {
+        -webkit-transform: none;
+                transform: none;
+    }
+
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .stoffe-text {
+        text-indent: unset;
+        padding: 0 1em;
+        -webkit-transform: none;
+                transform: none;
+    }
+
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .stoffe-title {
+        -webkit-transform: none;
+                transform: none;
+        font-size: 1.38em;
+        padding-top: 2.5rem;
+        padding-bottom: 3rem;
+        margin: 0 auto;
+
+    }
+
+    .section-galerie-heading {
+        -webkit-transform: none;
+                transform: none;
+        font-size: 1.4em;
+
+    }
+
+    .galerie-container img {
+        -webkit-transform: none;
+                transform: none;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .btn-style {
+        -webkit-transform: none;
+                transform: none;
+    }
+
+    .stoffe-footer {
+        margin-top: 0 !important;
+    }
+
+    .block-footer-img {
+        padding-top: 1rem;
+    }
+    .block-footer-img img {
+        padding-top: 0;
+    }
+    .main-stoffe .glide__bullets {
+        transform:none;
+        left: 40% !important;
+        -webkit-transform:none;
+        -moz-transform:none;
+        -ms-transform:none;
+        -o-transform:none;
+    }
+}
+@media (min-width: 320px ) and (max-width: 380px) {
+    .header-stoffe {
+        height: 17.7vh !important;
+    }
+    .section-galerie-heading {
+        font-size: 1.2em;
+    }
+    .stoffe-img img {
+        width: 164px;
+    }
+    .textile-img img {
+        margin-left: 2.8rem;
+    }
+    .burger-mobile {
+        top: -1.68rem;
+    }
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .btn-style {
+        -webkit-transform: none;
+                transform: none;
+    }
+    
+    
+
+}
+@media screen and (min-width:577px) and  (max-width:767.98px){
+    .stoffe-textile-block {
+        -webkit-transform: translateY(196px);
+                transform: translateY(196px);
+        padding-bottom: 0.5rem;
+    }
+
+    .stoffe-textile-block .stoffe-textile-heading {
+    //    margin-left: 0;
+        margin-left: -1rem;
+    }
+
+    .stoffe-img img {
+        width: 330px;
+        margin-left: 0;
+        height: 311px;
+        -webkit-transform: translateY(-311px);
+                transform: translateY(-311px);
+        position: relative;
+        left: -1rem;
+    }
+    .textile-img img {
+        
+        height: auto;
+        width: 208px;
+        margin-left: 6rem;
+    }
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-img img {
+        display: none;
+    }
+
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text {
+        -webkit-transform: none;
+                transform: none;
+    }
+
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .stoffe-text {
+        text-indent: unset;
+        padding: 0 1em;
+        -webkit-transform: none;
+                transform: none;
+    }
+    .stoffe-textile-block .stoffe-textile-heading p {
+        margin-bottom: 3rem;
+    }
+    .galerie-container img {
+        -webkit-transform: none;
+                transform: none;
+        margin: 0 auto;
+        width: 100%;
+        padding-bottom: 1rem;
+    }
+    .stoffe-footer {
+        margin-top: 0rem !important;
+    }
+    
+
+}
+@media screen and (min-width:768px) and  (max-width:991.98px) {
+    .main-stoffe {
+        top: 12.2rem !important;
+    }
+    .header-stoffe {
+        height: 13vh!important;
+    }
+    .burger-mobile .icon {
+        top: 61px;
+    }
+    .stoffe-textile-block .stoffe-textile-heading {
+        margin-left: 0;
+    }
+    .stoffe-textile-block .stoffe-textile-heading p {
+        width:100%;
+        max-width: 700px;
+        margin-bottom: 4rem;
+    }
+    .stoffe-img img {
+        width: 454px;
+        transform: translateY(-369px);
+        margin-left: 0;
+        height: 370px;
+        padding-right: 4rem;
+        -webkit-transform: translateY(-369px);
+        -moz-transform: translateY(-369px);
+        -ms-transform: translateY(-369px);
+        -o-transform: translateY(-369px);
+}
+    .textile-img img {
+        height: 370px;
+        width: 250px;
+        margin-left: 8rem;
+    }
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-img img {
+        display: none;
+    }
+    .stoffe-textile-block {
+        transform: translateY(273px);
+        padding-bottom: 1rem;
+        -webkit-transform: translateY(273px);
+        -moz-transform: translateY(273px);
+        -ms-transform: translateY(273px);
+        -o-transform: translateY(273px);
+    }
+ 
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .stoffe-title {
+        padding-top: 2.9rem;
+        -webkit-transform: none;
+                transform: none;
+        margin: 0 auto;
+        padding-bottom: 3rem;
+    }
+    .stoffe-block .stoffe-block-flex .stoffe-block-flex-text .stoffe-text {
+        text-indent: unset;
+        margin: 0 auto;
+        line-height: 1.5;
+    }
+    .galerie-container img {
+        -webkit-transform: none;
+                transform: none;
+        margin: 0 auto;
+        padding-bottom: 2rem;
+    }
+    .section-galerie-heading {
+        -webkit-transform: translate(33px, 14px);
+                transform: translate(33px, 14px);
+    }
+    .stoffe-footer {
+        margin-top: 0rem !important;
+    }
+}
+@media screen and (min-width:992px) and  (max-width:1200px) {
+    .header-stoffe {
+        height: 8.7vh!important;
+    }
+    .slide-stoffe-image img {
+        display: block!important;
+    }
+    .stoffe-textile-block .stoffe-textile-heading {
+        margin-left: 0;
+    }
+    .stoffe-img img {
+        margin-left: 0;
+    }
+    .textile-img {
+        padding-bottom: 1rem;
+    
+    }
+
+    .galerie-container img {
+        padding: 1em;
+    }
+    .section-galerie-heading {
+        -webkit-transform: translate(-2px, 14px);
+                transform: translate(-2px, 14px);
+    }
+    .mobile-logo {
+        
+        width: 20%;
+        
+    }
+    .burger-mobile .icon {
+        top: 46px;
+    }
+    .main-stoffe {
+        top: 8.2rem !important;
+    }
+
+
+}
+@media  ( min-width:1280px) and (max-width:1440px){
+    
+    .header-stoffe {
+        height: 15.7vh!important;
+    }
+}

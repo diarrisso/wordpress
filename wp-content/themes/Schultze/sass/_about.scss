@@ -1,0 +1,590 @@
+
+.about-header {
+    height: 13.3vh !important;
+    
+}
+
+.main-about {
+    position: relative;
+    top: 11rem !important;
+}
+
+$Merriweather: 'Merriweather';
+
+.banner_bg {
+    background-image: url(../img/bg-about.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1400px;
+    height: 384px;
+    margin: auto;
+
+    object-fit: cover;
+
+
+}
+
+.about-wrapper {
+    margin-top: 17.8rem;
+
+
+    .about-container_img {
+        position: relative;
+        width: 600px;
+
+        & img {
+
+            width: 100%;
+            height: 650px;
+            padding: 1em 2em;
+            margin-left: auto;
+            position: absolute;
+            bottom: 0;
+            left: -5rem;
+            top: -13.7rem;
+            overflow: hidden;
+            
+        }
+    }
+
+    .about-wrapper_text {
+        transform: translateX(-33px);
+        max-width: 625px;
+
+        & h3 {
+            font-size: 1.57em;
+            line-height: 1.2;
+            padding-bottom: 2.699rem;
+        }
+
+    }
+
+}
+
+.kompetzen-block {
+    display: flex;
+    background-color: #eae5df;
+    margin: 0 auto;
+    max-width: 1400px;
+    width: 100%;
+    margin-top: 6.9rem;
+    overflow: hidden;
+
+    .kompetzen-block_item {
+
+        font-family: $Merriweather;
+        margin: 0 auto;
+
+        & h5 {
+            font-weight: bolder;
+            font-size: 1.676em;
+            text-transform: uppercase;
+            letter-spacing: 1.8px;
+            margin-top: 5.6rem;
+            line-height: 1.4;
+            padding-bottom: 1rem;
+            margin-right: 16rem;
+        }
+    }
+
+    .container-kompetzen_img {
+        width: 46%;
+
+        & img {
+            width: 100%;
+            height: 610px;
+            object-fit: cover;
+        }
+    }
+
+    .plan-liste {
+        max-width: 427px;
+        font-family: $Merriweather;
+        position: relative;
+        line-height: 1.6;
+
+
+        li:not(:nth-child(1)):not(:nth-child(2)):not(:nth-child(3)) {
+            text-indent: -6px;
+
+
+        }
+
+        .custome-first::before {
+            top: 0.1rem !important;
+        }
+
+
+
+        & li {
+            list-style: none;
+            padding-bottom: 1.789em;
+            font-size: 1.17em;
+            transform: translateX(37px);
+
+            font-weight: 400;
+            position: relative;
+
+            &::before {
+                content: url('../img/check-icon.png');
+                vertical-align: middle;
+                position: absolute;
+                top: 1.1rem;
+                left: -2rem;
+
+            }
+
+        }
+
+
+    }
+
+
+}
+
+
+
+.meeting-block {
+    transform: translate(1px, 4px);
+
+    & p {
+        width: 100%;
+        font-size: 1.1699em;
+        max-width: 855px;
+        transform: translateY(-13px);
+        text-align: center;
+        margin-bottom: 4.7rem;
+    }
+
+    & .btn-style {
+        width: 338px !important;
+        margin: 0 auto;
+        text-transform: uppercase;
+        margin-top: 2.99rem;
+        font-size: 1.03em;
+        letter-spacing: 1px;
+        line-height: 1.6;
+        font-family: "Merriweather";
+        font-weight: bolder;
+        padding-left: 0.76rem;
+        transform: translateY(-2px);
+        margin-bottom: 3.99rem;
+    }
+
+    & .transform {
+        transform: translate(1px, -3px);
+    }
+
+    .meeting-block-step {
+        background-color: #eae5df;
+        width: 238px;
+        height: 239px;
+        text-transform: uppercase;
+        position: relative;
+        top: 1.2rem;
+
+        & p {
+            color: black;
+            font-size: 1.4em;
+            background-color: #eae5df;
+            text-align: center;
+            font-family: $Merriweather;
+            line-height: 1.2;
+            letter-spacing: 2px;
+            transform: translateY(-164px);
+        }
+
+
+
+    }
+
+    .block-kontakt-link_items {
+        padding-top: 8.4rem
+    }
+
+    // 
+    .feature-content {
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 260px;
+        text-align: center;
+        position: relative;
+        margin: 0 0.8rem;
+
+        &>div {
+            text-align: center;
+            width: 210px;
+            font-size: 1.4em;
+            position: absolute;
+            top: 7rem;
+            left: 1rem;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            line-height: 1.2;
+            font-family: $Merriweather;
+
+        }
+
+    }
+
+    .feature-col:not(:first-child)::after {
+        content: url('../img/prev-icon.png');
+        position: absolute;
+        top: 7.8rem;
+        left: 0.389rem;
+
+    }
+
+    .feature-content_one {
+        background-image: url('../img/kasten.svg');
+    }
+
+    .feature-content_two {
+        background-image: url('../img/kasten2.svg');
+    }
+
+    .feature-content_three {
+        background-image: url('../img/kasten3.svg');
+    }
+
+    .feature-content_four {
+        background-image: url('../img/kasten4.svg');
+    }
+
+
+}
+
+.meeting-block-step_items p {
+    text-align: center;
+    font-size: 1.5em;
+    transform: translateY(-161px);
+    width: 196px;
+    text-transform: uppercase;
+}
+
+.about-footer {
+    margin-top: 0 !important;
+    transform: translate(0px, 25px);
+    .block-footer-content_link li {
+        
+        margin-top: 2.4rem;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .about-header {
+        height: 12.7vh !important;
+    }
+
+    .banner_bg {
+        
+        width: 100%;
+        height: 184px;
+    
+    }
+    .about-wrapper .about-container_img {
+        width: 100%;
+    }
+
+    .about-wrapper {
+        margin-top: 0;
+    }
+
+
+    .main-about {
+        top: 7rem !important;
+    }
+
+
+    .about-wrapper .about-container_img img {
+        
+        position: static;
+        width: 270px;
+        height: auto;
+        margin-top: 3rem;
+        transform: translateX(-28px);
+    }
+    
+    .about-wrapper .about-wrapper_text h3 {
+        font-size: 1em;
+        line-height: 1.2;
+        padding-bottom: 2.699rem;
+        position: absolute;
+        top: -7.6rem;
+        left: 15rem;
+        width: 10%;
+        letter-spacing: 1px;
+    }
+    .about-wrapper .about-wrapper_text {
+        transform: none;
+        width: auto;
+    }
+    
+    .kompetzen-block {
+        margin-top: 1.9rem;
+    }
+
+
+
+    .kompetzen-block .container-kompetzen_img img {
+        display: none;
+    }
+    .kompetzen-block .kompetzen-block_item {
+        padding-left: 2rem;
+    }
+    .kompetzen-block .kompetzen-block_item h5 {
+        margin-top: 2.6rem;
+        margin-right: 0; 
+    }
+    .kompetzen-block .plan-liste {
+        max-width: 100%; 
+        
+    }
+    .kompetzen-block .plan-liste li {
+        padding-bottom: 1em;
+        font-size: 0.97em;
+        transform: translateX(24px);
+    }
+    .meeting-block .block-kontakt-link_items {
+        padding-top: 4.4rem;
+    }
+    .meeting-block p {
+        
+        font-size: 1em;
+        margin-bottom: 0.7rem;
+        padding: 1em;
+    }
+    .meeting-block .feature-content {
+        margin: 0 ; 
+    }
+    .meeting-block .feature-content > div {
+        font-size: 1em;
+        // font-size: 1em;
+        /* top: 9rem; */
+        /* left: 5rem; */
+        position: static;
+        margin-left: auto;
+        width: 100%;
+        transform: translateY(195px);
+    }
+    .meeting-block .feature-col:not(:first-child)::after {
+        display: none;
+    }
+    .lock-footer-img {
+        padding-top: 0.9rem;
+        
+    }
+    .meeting-block .btn-style {
+        transform: none; 
+        margin-bottom: 0.9rem;
+    }
+    .menu_nav {
+        display: block;
+    }
+    
+    
+
+
+    
+
+}
+
+@media (min-width: 320px ) and (max-width: 380px) {
+    .about-wrapper .about-wrapper_text h3 {
+        left: 13rem;
+    }
+    .about-header{
+        height: 13.7vh!important;
+    }
+    .meeting-block .btn-style {
+        width: 292px !important;
+        font-size: 0.8em;
+        padding-left: 0;
+    }
+    .meeting-block .transform {
+        transform: translate(7px, -1px);
+    }
+    .block-footer-img img {
+        padding-top: 0;
+    }
+
+}
+@media screen and (min-width: 576px) and (max-width:767.98px){
+    .banner_bg {
+        
+        width: 100%;
+        height: 19vh;
+    
+    }
+    .about-wrapper .about-container_img {
+        width: 100%;
+    }
+
+    .about-wrapper {
+        margin-top: 0;
+    }
+
+
+    .main-about {
+        top: 7rem !important;
+    }
+
+
+    .about-wrapper .about-container_img img {
+        
+        position: static;
+        width: 400px;
+        height: auto;
+        margin-top: 3rem;
+        transform: translateX(-28px);
+    }
+    
+    .about-wrapper .about-wrapper_text h3 {
+
+
+        padding-bottom: 2.699rem;
+        position: absolute;
+        top: -12rem;
+        left: 23rem;
+        width: 10%;
+    }
+    .about-wrapper .about-wrapper_text {
+        transform: none;
+        width: auto;
+    }
+    .kompetzen-block .container-kompetzen_img img {
+    
+        display: none;
+    }  
+
+    .meeting-block .feature-col:not(:first-child)::after {
+        display: none;
+    }
+    .kompetzen-block {
+        margin-top: 0.9rem;
+    }
+    .kompetzen-block .container-kompetzen_img {
+        width: auto;
+    }
+    .meeting-block .block-kontakt-link_items {
+        padding-top: 3.4rem;
+    }
+    .meeting-block .feature-content > div {
+        position: static;
+        margin: 0 auto;
+        transform: translateY(173px);
+    }
+    .meeting-block .btn-style {
+        margin-bottom: 0;
+    }
+    .block-footer-img {
+        margin-bottom: 0;
+    }
+    .about-footer .block-footer-content_link li {
+        margin-top: 0.5rem;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .mobile-logo {
+        width: 30%;
+    }
+
+
+    .banner_bg {
+        width: 100%; 
+        height: 220px;
+    }
+    
+    .about-wrapper {
+        margin-top: 0;
+    }
+    
+    .about-wrapper .about-container_img img {
+        position: static; ;
+        width: 400px;
+        height: auto;
+        padding: 0;
+        margin-top: 8rem;
+    }
+
+    .about-wrapper{
+        .section-about-block-text p {
+
+            transform: translateY(-137px);
+        }
+    
+    }
+    
+    .about-wrapper .about-wrapper_text {
+        transform: none;
+        width: 100%;
+    }
+    .about-wrapper .about-wrapper_text h3 {
+        padding-bottom: 0;
+        transform: translate(451px, -170px);
+        width: 100%;
+        max-width: 194px;
+    }
+
+    .kompetzen-block .container-kompetzen_img img ,.kompetzen-block .container-kompetzen_img{
+        display: none;
+    }
+    .meeting-block .feature-col:nth-child(5)::after {
+        display: none;
+    }
+    .kompetzen-block {
+        margin-top: 0;
+    }
+    .meeting-block .block-kontakt-link_items {
+        padding-top: 3.4rem;
+    }
+    .meeting-block .feature-content > div { 
+        position: static; 
+        margin: 0 auto;
+        padding-top: 8rem;
+    }
+    .meeting-block .btn-style {
+        margin-bottom: 0;
+    }
+    footer {
+        color: tan;
+    }
+    
+
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .about-wrapper .about-container_img img {
+        top: -10.3rem;
+        padding-left: 3rem;
+    }
+    .about-wrapper .about-wrapper_text {
+        transform: translateX(26px);
+
+    }
+
+    .meeting-block .feature-content > div {
+        font-size: 1.2em;
+        position: static;
+        margin: 0 auto;
+        padding-top: 7rem;
+    }
+    .block-footer-img {
+        padding-top: 0;
+
+    }
+    .meeting-block .btn-style {
+        margin-bottom: 0.99rem;
+    }
+}
+@media  ( min-width:1280px) and (max-width:1440px){
+    
+    .about-header {
+        height: 18.7vh!important;
+    }
+}

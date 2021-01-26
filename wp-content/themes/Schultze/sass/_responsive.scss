@@ -1,0 +1,567 @@
+
+@media (max-width: 575.98px) {
+    header {
+        height: 7.7vh;
+    }
+
+    .traume-text-block {
+        margin-top: 0;
+
+    }
+
+    .heading-text {
+        font-size: 0.9em;
+        max-width: 400;
+    }
+
+    .traume-text-block h3 {
+        font-size: 1em;
+        white-space: nowrap;
+        text-align: center;
+    }
+
+    .traume-text-block h3::after {
+        transform: translate(3.5rem, 1.48rem);
+    }
+
+    .traume-text-block-items {
+        flex-direction: column;
+        padding: 1em;
+        gap: 1rem;
+        font-size: 0.698em
+    }
+
+    .margin-custom {
+        margin-left: 0;
+    }
+
+    .section-galerie-block {
+        margin-top: 0.5vh;
+        width: 100%
+    }
+
+    .container_img {
+        display: none;
+    }
+
+    .block-responsive {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+
+    }
+
+    .block-link-galerie p {
+        font-size: 1.2em;
+        width: auto;
+        transform: none;
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+
+    .block-link-galerie .btn-style {
+        margin: auto;
+    }
+
+    .section-galerie-block-container {
+        height: 320px;
+    }
+
+    .section-about-block_img {
+        transform: none;
+        width: 100%;
+        padding-bottom: 2rem;
+    }
+
+    .section-about-block {
+        margin-top: 1.6rem;
+    }
+
+    .section-about-block-text .block-link-about {
+        transform: none;
+        top: 18rem;
+        left: -6.4rem;
+    }
+
+    .section-about-block-text p {
+        font-size: 1em;
+        line-height: 1.6;
+        padding: 0 1em;
+    }
+
+    .section-about-block-text p:last-of-type {
+        margin-top: 0.8rem;
+    }
+
+    .section-about-block-text h3 {
+        font-size: 1.5em;
+        padding-left: 1rem;
+        padding: -1px 1em;
+    }
+
+    .btn-style_about {
+        margin-left: 1rem;
+    }
+
+    .block-seeler {
+        display: none;
+    }
+
+    .block-stoffe-dekoration {
+        margin-top: 3rem;
+    }
+
+    .block-stoffe-dekoration h5 {
+        text-align: left;
+        transform: none;
+    }
+
+    .block-soffe-text p {
+        width: 100%;
+        max-width: unset;
+        margin-left: 0;
+        text-indent: 1px;
+        line-height: unset;
+        font-size: 1.10996em;
+        text-align-last: unset;
+        letter-spacing: 0;
+        text-align: unset;
+        text-align: unset;
+    }
+
+    .container-img-innendeko_img {
+        margin-top: 3rem;
+    }
+
+    .container-img-innendeko .block-link-galerie {
+        transform: translate(-23px, 168px);
+    }
+
+    .block-stoffe-dekoration .block-link-galerie {
+        top: 28.8rem;
+    }
+
+    .block-link-stofe {
+        transform: translate(-21px, -152px) !important;
+    }
+
+    .btn-style_stoffe {
+        transform: none;
+        position: static;
+    }
+
+    .btn-style_innendeko {
+        position: static;
+
+    }
+
+    .block-kontakt-link {
+        transform: translateY(45px);
+    }
+
+    .block-kontakt-link_items {
+        padding-top: 4rem;
+
+    }
+
+    .block-kontakt-link .btn-style {
+        transform: translate(-6px, -38px);
+    }
+
+    .block-kontakt-link_items p {
+        font-size: unset;
+        text-indent: 0;
+        margin-bottom: 4rem;
+    }
+
+    /* footer */
+    .menu {
+        padding-top: 0;
+        justify-content: space-between;
+        gap: 0;
+        transform: none;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .block-footer-content_link {
+        width: auto;
+    }
+
+    .block-footer {
+        margin-top: 1.3rem;
+    }
+
+    footer {
+        margin-top: 2rem;
+        padding-bottom: 0rem;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 767.98px) {
+    br {
+        display: none;
+    }
+
+    li .active {
+        background-image: url(../img/active.png);
+        width: 100%;
+    }
+
+    header .menu {
+        display: none;
+    }
+
+    .burger-mobile {
+        display: block;
+    }
+
+    .menu_nav {
+        display: block;
+    }
+
+    .menu-burger_mobile {
+        display: block;
+        padding-top: 1rem;
+        width: 40px;
+        position: absolute;
+        right: 0;
+        padding-left: -3rem;
+        margin-right: 1rem;
+    }
+
+    .logo {
+        position: absolute;
+        top: 0;
+        left: 1rem;
+        padding-top: 1rem;
+        display: block;
+    }
+
+    main {
+        top: 6.9rem;
+    }
+
+    .banner-image-block img {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .glide__bullets {
+        transform: translateY(-160px) !important;
+        left: 38% !important;
+
+        .glide__bullet {
+            border: 2px solid transparent;
+            margin: 0 0.2rem;
+        }
+    }
+
+    .banner-image-text h4 {
+        font-size: 1.5em;
+        letter-spacing: -3.2px;
+        transform: translateY(-16.5rem);
+    }
+
+    .container-img-stoffe img,
+    .container-img-innendeko_img {
+        position: static;
+        width: 100%;
+        height: auto;
+    }
+
+
+}
+
+/* Tablets */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    header {
+        height: 8.7vh;
+    }
+
+    .burger-mobile {
+
+        width: auto;
+
+        right: -35rem;
+
+    }
+
+    .banner-image-text h4 {
+        font-size: 2em;
+        letter-spacing: -3.2px;
+        transform: translateY(-20.5rem);
+    }
+
+    .traume-text-block {
+        margin-top: 0;
+
+    }
+
+    .glide__bullets {
+        transform: translateY(-171px) !important;
+        left: 47% !important;
+    }
+
+    .traume-text-block-items {
+        flex-direction: column;
+        padding: 2em;
+        gap: 1rem;
+
+    }
+
+    .margin-custom {
+        margin-left: 0;
+    }
+
+    .section-about-block-text {
+        margin-left: 0;
+        margin-top: 2rem;
+        max-width: 800px;
+    }
+
+    .section-about-block_img {
+
+        transform: none;
+        width: 100%;
+        height: auto;
+    }
+
+    .block-seeler h4 {
+
+        font-size: 2em;
+
+    }
+
+    .block-stoffe-dekoration {
+        margin-top: 6rem;
+
+    }
+
+    .block-stoffe-dekoration h5 {
+        text-align: left;
+
+    }
+
+    .block-soffe-text p {
+        width: 100%;
+        max-width: 494px;
+        margin-left: 0;
+        text-align-last: left;
+        letter-spacing: 0;
+        text-indent: 0;
+        text-align: right;
+    }
+
+    .container-img-innendeko_img {
+        width: 100%;
+    }
+
+    .btn-style_innendeko {
+
+        top: 43.89rem;
+
+    }
+
+    .container-img-stoffe img,
+    .container-img-innendeko_img {
+
+        margin-bottom: 5rem;
+    }
+
+    .btn-style_stoffe {
+        top: 23.7rem;
+        right: 14rem;
+
+    }
+
+    .block-kontakt-link {
+        transform: translateY(75px);
+
+    }
+
+    .btn-style_innendeko {
+        top: 40.89rem;
+        right: 11.8rem;
+    }
+
+    .block-footer {
+        margin-top: 4.3rem;
+    }
+
+    .block-footer-content_link {
+        width: auto;
+        gap: 0;
+        margin-left: 0;
+        flex-direction: column;
+
+    }
+
+    .menu {
+        transform: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .section-galerie-block {
+
+        width: 100%;
+        display: none;
+    }
+
+    .container_img {
+        padding: 2em;
+    }
+
+    .section-galerie-block-container {
+        width: 750px;
+        margin: auto;
+        gap: 3rem;
+        transform: none;
+        height: 100vh;
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+    .menu {
+        gap: 1rem;
+        transform: none;
+        list-style: none;
+        justify-content: center;
+    }
+
+    header {
+        height: auto;
+    }
+
+    .traume-text-block {
+        margin-top: 0;
+        padding: 0 1em;
+    }
+
+    .heading-text {
+        font-size: 1em;
+    }
+
+    .traume-text-block-items {
+        flex-direction: column;
+
+    }
+
+    .margin-custom {
+        margin-left: 0 !important;
+    }
+
+    .section-galerie-block {
+
+        width: 100%;
+        display: none;
+    }
+
+    .section-about-block_img {
+        height: auto;
+        transform: none;
+        width: 100%;
+        padding-bottom: 2rem;
+    }
+
+    .section-about-block-text {
+        margin-left: 0;
+        max-width: 769px;
+    }
+
+    .block-seeler h4 {
+        font-size: 2.7em;
+        padding: 0 0.8em;
+
+    }
+
+    .block-stoffe-dekoration {
+        margin-top: 5rem;
+
+    }
+
+    br {
+        display: none;
+    }
+
+    .block-stoffe-dekoration h5 {
+        text-align: left;
+        transform: none;
+    }
+
+    .container-img-stoffe img,
+    .container-img-innendeko_img {
+        position: static;
+        margin-bottom: 5rem;
+        width: 100%;
+    }
+
+    .block-soffe-text p {
+        width: 100%;
+        max-width: 749px;
+        margin-left: 0;
+        line-height: 1.7;
+        text-align-last: left;
+        text-align: left;
+        text-indent: unset;
+
+    }
+
+    .btn-style_stoffe {
+        top: 31.7rem;
+        right: 23rem;
+    }
+
+    .btn-style_innendeko {
+
+        top: 53.89rem;
+        right: 19.8rem;
+    }
+
+    .block-kontakt-link {
+        transform: translateY(66px);
+    }
+
+    .block-footer {
+        margin-top: 3.3rem;
+    }
+
+    .block-footer-content_link {
+
+        width: 100%;
+
+    }
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}

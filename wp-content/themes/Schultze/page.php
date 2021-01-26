@@ -1,0 +1,6 @@
+<?php 
+/**
+ * 
+ *  template Name: masingha
+ */
+?>

@@ -1,0 +1,331 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/AdobeFnt22.lst
+FileLength:8057
+FileModTime:626890041
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Hesterica
+FamilyName:Hesterica
+StyleName:Regular
+MenuName:Hesterica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Hesterica
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Hesterica.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47628
+FileModTime:626890036
+NameArray:0,Mac,4,Hesterica
+NameArray:0,Win,1,Hesterica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Black
+FamilyName:Merriweather
+StyleName:Black
+MenuName:Merriweather Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Black
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Merriweather-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141624
+FileModTime:626890036
+NameArray:0,Win,1,Merriweather Black
+NameArray:0,Win,16,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Bold
+FamilyName:Merriweather
+StyleName:Bold
+MenuName:Merriweather
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Merriweather-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141964
+FileModTime:626890036
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Italic
+FamilyName:Merriweather
+StyleName:Italic
+MenuName:Merriweather
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Merriweather Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Merriweather-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142548
+FileModTime:626890036
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Light
+FamilyName:Merriweather
+StyleName:Light
+MenuName:Merriweather Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Light
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Merriweather-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:148100
+FileModTime:626890036
+NameArray:0,Win,1,Merriweather Light
+NameArray:0,Win,16,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Regular
+FamilyName:Merriweather
+StyleName:Regular
+MenuName:Merriweather
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Merriweather-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:149092
+FileModTime:626890036
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RomanticallyFreeForPersonal
+FamilyName:Romantically Free For Personal
+StyleName:Regular
+MenuName:Romantically Free For Personal
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Romantically Free For Personal
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Romantically.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104068
+FileModTime:626890036
+NameArray:0,Win,1,Romantically Free For Personal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SaithikHandwritten
+FamilyName:Saithik
+StyleName:Handwritten
+MenuName:Saithik Handwritten
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Saithik Handwritten
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Saithik-Handwritten.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90900
+FileModTime:626890036
+NameArray:0,Mac,4,Saithik Handwritten
+NameArray:0,Win,1,Saithik Handwritten
+NameArray:0,Win,16,Saithik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:modernlinePersonalUse
+FamilyName:modernline - Personal Use
+StyleName:Regular
+MenuName:modernline - Personal Use
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:modernline - Personal Use
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/modernline.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98664
+FileModTime:626890036
+NameArray:0,Win,1,modernline - Personal Use
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-Bold
+FamilyName:Futura
+StyleName:Bold
+MenuName:Futura
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Futura Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Futura.ttc
+TTCOffset:612
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486592
+FileModTime:626890036
+NameArray:0,Mac,4,Futura Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-CondensedExtraBold
+FamilyName:Futura
+StyleName:Condensed ExtraBold
+MenuName:Futura
+StyleBits:2
+WeightClass:800
+WidthClass:3
+AngleClass:0
+FullName:Futura Condensed ExtraBold
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Futura.ttc
+TTCOffset:1196
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486592
+FileModTime:626890036
+NameArray:0,Mac,4,Futura Condensed ExtraBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-CondensedMedium
+FamilyName:Futura
+StyleName:Condensed Medium
+MenuName:Futura
+StyleBits:0
+WeightClass:500
+WidthClass:3
+AngleClass:0
+FullName:Futura Condensed Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Futura.ttc
+TTCOffset:912
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486592
+FileModTime:626890036
+NameArray:0,Mac,4,Futura Condensed Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-Medium
+FamilyName:Futura
+StyleName:Medium
+MenuName:Futura
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Futura Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Futura.ttc
+TTCOffset:44
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486592
+FileModTime:626890036
+NameArray:0,Mac,4,Futura Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-MediumItalic
+FamilyName:Futura
+StyleName:Medium Italic
+MenuName:Futura
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Futura Medium Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/Kunden/Dietlind-Schultze/PXXXXXX_Webdesign/P200xxx_Schultze_Websitedesign_201110_K2_test Ordner/Document fonts/Futura.ttc
+TTCOffset:328
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486592
+FileModTime:626890036
+NameArray:0,Mac,4,Futura Medium Italic
+%EndFont
+
